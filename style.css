@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&family=Indie+Flower&family=Italianno&family=Literata&family=Playfair:wght@500&family=Poiret+One&display=swap');
+
+
+body{
+    background-image: linear-gradient(to right, red 0%, orange 10%, rgb(157, 255, 0) 20%, rgb(71, 242, 14) 30%, rgb(0, 225, 255) 40%, rgb(4, 0, 255) 50%, rgb(21, 0, 139) 60%, rgb(107, 0, 128) 70%, rgb(103, 4, 100) 80%, rgb(172, 7, 114) 90%, hotpink 100%) ;
+}
+
+
+
+header h1.center{
+    padding-top: 0rem;
+    text-align: center;
+    font-family: 'Literata', serif;
+    font-size: 50px;
+    
+}
+
+header h1{
+    padding-top: 3rem;
+}
+
+div.flex{
+    display: flex;
+}
+
+
+div.members3{
+    padding-left: 2rem;
+}
+
+div.members4{
+    padding-left: 2rem;
+}
+
+div.members h3{
+    padding-left: 5rem;
+}
+
+div.members2 h3{
+    padding-left: 4rem;
+}
+
+div.members3 h3{
+    padding-left: 5rem;
+}
+
+div.members4 h3{
+    padding-left: 4rem;
+}
+
+div.group{
+    display: flex;
+}
+
+nav.group{
+    padding-right: 3rem;
+}
+
+
+div.c1 h1{
+    padding-left: 3rem;
+}
+
+div.c2{
+    padding-left: 2rem;
+}
+
+div.c2 h1{
+    padding-right: 1rem;
+}
+
+div.c3 h1{
+    padding-left: 5.5rem;
+}
+
+div.c4{
+    padding-left: 5rem;
+}
+
+div.c4 h1{
+    padding-left: 2rem;
+}
+
+section.freeze{
+    padding-left: 3rem;
+}
+
+
+
+
+
+
+
+div.content{
+    display: flex;
+    padding-bottom: 3rem;
+    justify-content: center;
+    background-color: rgb(112, 111, 113);
+    
+    
+    width: 100%;
+}
+
+div.c5 h1{
+    padding-left: 2.5rem;    
+}
+
+div.c6{
+    padding-left: 4rem;
+}
+
+div.c6 h1{
+    padding-left: 2rem;
+}
+
+div.c7{
+    padding-left: 3rem;
+    padding-right: 1rem;
+}
+
+div.c7 h1{
+    padding-left: 1rem;
+}
+
+div.c8 h1{
+    padding-left: 2rem;
+}
+
+
+div.c8{
+    padding-left: 3rem;
+}
+
+section.freeze2{
+    padding-left: 3rem;
+}
+
+
+
+div.c9 h1{
+    padding-right: 4rem;
+}
+section.freeze3{
+    padding-left: 1.7rem;
+}
+
+div.content2{
+    display: flex;
+    padding-bottom: 3rem;
+    justify-content: center;
+    
+
+}    
+
+ul li{
+    padding: 2px;
+}
+
+div.content3{
+    display: flex;
+    padding-bottom: 3rem;
+    background-color: rgb(247, 24, 83);
+    width: 100%;
+}
